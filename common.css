@@ -1,0 +1,26 @@
+.container {width: 100%; max-width: 400px;}
+
+video{
+  width: 100%;
+  display: block;
+  margin: auto;
+  }
+
+table{
+  width: 100%;
+  border: 1px solid #ccc;
+  margin : 10px 0px;
+  border-collapse:collapse;
+  
+}
+
+th{
+  width: 50%;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}
+
+.listening_dog_icon{
+  width:30px;
+  vertical-align:middle;
+}
